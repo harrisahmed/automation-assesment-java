@@ -6,8 +6,8 @@ Completed with selenium with POM design pattren, Tested on Chrome only as maven 
 
 1. Install Java JDK 1.8 and the latest version of Chrome browser.
 2. Clone the repository using `git clone`.
-3. Build the `WalletHub-app` module with Maven.
-4. Insert your credentials for Facebook login in the tests class.
+3. Insert your credentials for Facebook login in the tests class.
+4. Run Facebook/Wallethub tests with Run As (1 java application)
 
 ## Add credentials (Usage)
 
